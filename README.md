@@ -1,1 +1,1 @@
-# scrap-websites.financeANDnews
+Built this project on an idea as it scraps multiple website to get news and financial data of input company's name. For this I mainly used scrappy in this and tried to make it much efficient as I can.
