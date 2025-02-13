@@ -1,0 +1,26 @@
+[
+    {
+        "source": "Yahoo Finance",
+        "stock_price": "21.49",
+        "market_cap": "366.802B",
+        "pe_ratio": "48.54",
+        "52_week_range": "479.90 - 941.75",
+        "dividend_yield": "--",
+        "earnings_date": "Jan 21, 2025",
+        "ex_dividend_date": "--",
+        "1y_target_est": "873.81",
+        "avg_volume": "3,045,670"
+    },
+    {
+        "source": "Google Finance",
+        "stock_price": "$858.10",
+        "previous_close": "$842.37",
+        "day_range": "$852.13 - $865.00",
+        "year_range": "$476.06 - $941.75",
+        "market_cap": "366.80B USD",
+        "avg_volume": "2.89M",
+        "pe_ratio": "48.55",
+        "dividend_yield": "-",
+        "primary_exchange": "NASDAQ"
+    }
+]
